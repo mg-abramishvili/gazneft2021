@@ -95,6 +95,7 @@
             inactiveUserAction() {
                 this.page1 = false
                 this.page2 = false
+                this.index = true
             }
         },
         beforeMount() {
